@@ -2,3 +2,4 @@ node_modules
 UnitTest
 dist
 www
+logs
